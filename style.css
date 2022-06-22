@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    font-size: 10px;
+    background-color: rgb(57, 40, 73);
+}
+
+.topicName{
+    font-size: 3rem;
+    text-align: center;
+    color: yellow;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1rem;
+}
+
+.box{
+    background-color: rgb(255, 140, 125);
+    border-radius: 0.5rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+img{
+    width: 15rem;
+    height: 10rem;
+}
+
+.foodName{
+    text-align: center;
+    display: flex;
+}
+
+h3{
+    color: aliceblue;
+}
